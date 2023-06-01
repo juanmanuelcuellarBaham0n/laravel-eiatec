@@ -54,7 +54,7 @@ Ejemplo: http://localhost:8000/api/add
 
 Ejemplo: http://localhost:8000/api/edit/2
 
-4. PUT /delete/{id}
+4. DELETE /delete/{id}
 * elimina una clase
 * requiere el id para eliminarlo
 
